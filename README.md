@@ -1,7 +1,11 @@
 Proyecto hecho por:
+
 Nombre: Arnaldo Vallerugo
+
 Carrera: Ingeniería de Sistemas
+
 Universidad Metropolitana de Caracas
+
 Profesor: Christian Guillen
 
 ¿Que hace el proyecto?
